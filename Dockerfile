@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM vcatechnology/docker-ubuntu-16.04
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
